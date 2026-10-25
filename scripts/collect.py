@@ -535,7 +535,7 @@ def collect(category_filter: str | None = None, dry_run: bool = False):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="명언 수집기")
+    parser = argparse.ArgumentParser(description="매일 동기부여")
     parser.add_argument("--category", type=str, help="특정 카테고리만 수집")
     parser.add_argument("--dry-run", action="store_true", help="DB 저장 없이 확인만")
     args = parser.parse_args()

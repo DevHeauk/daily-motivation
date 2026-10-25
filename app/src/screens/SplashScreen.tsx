@@ -32,7 +32,7 @@ export function SplashScreen({onFinish}: SplashScreenProps) {
     <View style={styles.container}>
       <Animated.View style={[styles.logoArea, {opacity: fadeAnim}]}>
         <Text style={styles.logoIcon}>&#x275D;</Text>
-        <Text style={styles.logoText}>매일명언</Text>
+        <Text style={styles.logoText}>매일 동기부여</Text>
       </Animated.View>
       <Animated.Text style={[styles.subtitle, {opacity: subtitleFade}]}>
         하루 한 줄, 마음에 새기다

@@ -1,4 +1,4 @@
--- 명언 수집기 DB 스키마 (PostgreSQL)
+-- 매일 동기부여 DB 스키마 (PostgreSQL)
 -- 사용: psql -U youheaukjun -f db/schema.sql
 
 CREATE DATABASE quotes_db;

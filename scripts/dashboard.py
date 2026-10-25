@@ -1581,7 +1581,7 @@ def index():
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>명언 수집기 대시보드</title>
+<title>매일 동기부여 대시보드</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#0f172a;color:#e2e8f0;padding:24px}
@@ -1614,7 +1614,7 @@ h2{font-size:16px;margin-bottom:12px;color:#94a3b8;font-weight:500}
 </style>
 </head>
 <body>
-<h1>명언 수집기 대시보드</h1>
+<h1>매일 동기부여 대시보드</h1>
 
 <div class="stats">
   <div class="stat-card"><div class="number" id="s-quotes">-</div><div class="label">총 명언</div></div>
