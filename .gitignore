@@ -1,8 +1,6 @@
 .env
+.venv/
 __pycache__/
 *.pyc
-data/trends/*.json
-data/reports/
 .DS_Store
-
 .idea/
